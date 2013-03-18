@@ -2,4 +2,3 @@ auto: true
 exclude:
 - README.md
 - CNAME
-- stylesheets/sass
